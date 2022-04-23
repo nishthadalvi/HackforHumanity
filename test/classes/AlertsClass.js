@@ -27,7 +27,7 @@ export default function AlertsClass(){
         </View>
         <View style={{paddingTop: 25, width: 350, alignContent: 'center'}}>
           <Box rounded='md' style={{ borderColor: '#FE676E', borderStyle: 'solid', borderWidth: 1, p: 4, paddingBottom: 25, paddingTop: 25, paddingLeft: 10}} width="100%">
-            <Text style={{fontSize: 25,}}>Alerts</Text>
+            <Text style={{fontSize: 20,}}>Alerts</Text>
           </Box>
         </View>
       </View>
